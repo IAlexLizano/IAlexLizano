@@ -1,9 +1,8 @@
 # Hola, soy [Alex Lizano] 👋
-
+![](https://i.pinimg.com/originals/96/69/aa/9669aaa4d1e30a0e89063fde183b768e.gif)
 ## Acerca de mí
 Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto semestre en la Universidad Técnica de Ambato. Siempre me encantó el funcionamiento de los computadores y de otros dispositivos tecnológicos. Tengo conocimiento en el desarrollo de aplicaciones y paginas web , haciendo uso de herramientas como html, Java, Python entre otras. Actualmente, disfruto deamsiado desarrollando proyectos y programas, además de aprender nuevos conocimientos constantemente.
 ## Algunas tecnologías que manejo:
-
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
@@ -15,10 +14,10 @@ Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto se
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ## Contacto:
-- [Envíame un Email en Microsoft](mailto:alizano4338@uta.edu.ec)
-- [Envíame un Email en Microsoft en Google](mailto:alexsanty10lm@gmail.com)
+- [Envíame un Email por Microsoft365](mailto:alizano4338@uta.edu.ec)
+- [Envíame un Email por Google](mailto:alexsanty10lm@gmail.com)
 
-## Estadísticas
+## Algunas de mis Estadísticas son
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IAlexLizano)](https://github.com/IAlexLizano)
 
 <!--
