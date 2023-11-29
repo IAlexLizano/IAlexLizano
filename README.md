@@ -3,7 +3,7 @@
 ## Acerca de mí
 Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto semestre en la Universidad Técnica de Ambato. Siempre me encantó el funcionamiento de los computadores y de otros dispositivos tecnológicos. Tengo conocimiento en el desarrollo de aplicaciones y paginas web , haciendo uso de herramientas como html, Java, Python entre otras. Actualmente, disfruto deamsiado desarrollando proyectos y programas, además de aprender nuevos conocimientos constantemente.
 ##Algunas tecnologías que manejo:
-[](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+- [Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 - [Python]
 - [JavaScript]
 - [Flutter]
