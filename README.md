@@ -1,8 +1,8 @@
-# Hola, soy [Alex Lizano] 👋
 <p align="center">
   <img src="./imagenes/ALEX LIZANO BIENVENIDO A MI PERFIL.png" alt="Logo Perfil">
 </p>
 
+# Hola, soy Alex Lizano 👋
 ## Acerca de mí
 Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto semestre en la Universidad Técnica de Ambato. Siempre me encantó el funcionamiento de los computadores y de otros dispositivos tecnológicos. Tengo conocimiento en el desarrollo de aplicaciones y paginas web , haciendo uso de herramientas como html, Java, Python entre otras. Actualmente, disfruto deamsiado desarrollando proyectos y programas, además de aprender nuevos conocimientos constantemente.
 
@@ -21,9 +21,14 @@ Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto se
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-## Contacto:
-- [Envíame un Email por Microsoft365](mailto:alizano4338@uta.edu.ec)
-- [Envíame un Email por Google](mailto:alexsanty10lm@gmail.com)
+
+## Estoy Aprendiendo:
+- Actualmente estoy cursando el cuarto semestre de la carrera de Software. 
+- Por el momento estoy adquiriendo conocimientos principalmente en Java, PHP y Futter  
+
+## Contactame:
+- [Envíame un Email al correro alizano4338@uta.edu.ec](mailto:alizano4338@uta.edu.ec)
+- [Envíame un Email al correo alexsanty10lm@gmail.com](mailto:alexsanty10lm@gmail.com)
 
 ## Algunas de mis Estadísticas son
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IAlexLizano)](https://github.com/IAlexLizano)
