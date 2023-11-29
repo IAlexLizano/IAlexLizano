@@ -1,10 +1,15 @@
 # Hola, soy [Alex Lizano] 👋
 <p align="center">
-  <img src="https://i.pinimg.com/originals/96/69/aa/9669aaa4d1e30a0e89063fde183b768e.gif" alt="Logo Perfil">
+  <img src="./imagenes/ALEX LIZANO BIENVENIDO A MI PERFIL.png" alt="Logo Perfil">
 </p>
 
 ## Acerca de mí
 Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto semestre en la Universidad Técnica de Ambato. Siempre me encantó el funcionamiento de los computadores y de otros dispositivos tecnológicos. Tengo conocimiento en el desarrollo de aplicaciones y paginas web , haciendo uso de herramientas como html, Java, Python entre otras. Actualmente, disfruto deamsiado desarrollando proyectos y programas, además de aprender nuevos conocimientos constantemente.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/96/69/aa/9669aaa4d1e30a0e89063fde183b768e.gif" alt="Logo Perfil">
+</p>
+
 ## Algunas tecnologías que manejo:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
