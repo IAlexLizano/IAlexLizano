@@ -1,5 +1,5 @@
 # Hola, soy [Alex Lizano] 👋
-![](https://i.gifer.com/Rr20.gif)
+<img src="https://i.gifer.com/Rr20.gif" alt="Logo">
 ## Acerca de mí
 Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto semestre en la Universidad Técnica de Ambato. Siempre me encantó el funcionamiento de los computadores y de otros dispositivos tecnológicos. Tengo conocimiento en el desarrollo de aplicaciones y paginas web , haciendo uso de herramientas como html, Java, Python entre otras. Actualmente, disfruto deamsiado desarrollando proyectos y programas, además de aprender nuevos conocimientos constantemente.
 ## Algunas tecnologías que manejo:
