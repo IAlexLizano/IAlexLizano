@@ -4,7 +4,7 @@
 
 # Hola, soy Alex Lizano 👋
 ## Acerca de mí
-Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto semestre en la Universidad Técnica de Ambato. Siempre me encantó el funcionamiento de los computadores y de otros dispositivos tecnológicos. Tengo conocimiento en el desarrollo de aplicaciones y paginas web , haciendo uso de herramientas como html, Java, Python entre otras. Actualmente, disfruto deamsiado desarrollando proyectos y programas, además de aprender nuevos conocimientos constantemente.
+Mi nombre es Alex, soy un estudiante de Software que está cursando el cuarto semestre en la Universidad Técnica de Ambato. Siempre me encantó el funcionamiento de los computadores y de otros dispositivos tecnológicos. Tengo conocimiento en el desarrollo de aplicaciones y paginas web. Actualmente, disfruto demasiado desarrollando proyectos, además de aprender nuevos conocimientos constantemente.
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/96/69/aa/9669aaa4d1e30a0e89063fde183b768e.gif" alt="Logo Perfil">
