@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./imagenes/portfolio_background.jpg" alt="Front Page">
+</p>
+
 # Hi there, I'm Alex Lizano 👋
 
 ## Software Engineering Student | Full Stack Developer
