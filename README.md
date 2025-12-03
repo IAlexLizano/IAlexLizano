@@ -5,9 +5,13 @@
 Passionate about Full Stack development. Specialized in building robust and scalable solutions using technologies like .NET Core, NestJS, React, and Angular.
 
 - 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Software Architecture**
+- 🌱 I’m currently learning **Data Analysis**
 - 🎓 **Education**: Software Engineering at Universidad Técnica de Ambato (2021 - Present)
-- 📄 [Download my CV](https://github.com/IAlexLizano/portfolio/raw/main/public/cv_lizano_alex.pdf) (Note: Link assumes CV is in public folder of this repo, adjust if hosted elsewhere)
+- 🎮 **Hobbies**: I love video games, I also enjoy traveling and listening to music.
+
+## 🌐 Portfolio
+
+Check out my full portfolio here: [**portfolio-delta-ten-57.vercel.app**](https://portfolio-delta-ten-57.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -41,9 +45,9 @@ Passionate about Full Stack development. Specialized in building robust and scal
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Enruta** | Web platform for managing routes and trips for bus companies. | Next.js, NestJS, Prisma, PostgreSQL | [Front](https://github.com/pjimenez2510/en-ruta-app.git) / [Back](https://github.com/pjimenez2510/en-ruta-api.git) |
-| **Casa de la Cultura** | Web System for managing space reservations. | Next.js, Laravel, MySQL | [Front](https://github.com/OscarJRM/Proyecto_Espacios_CC.git) / [Back](https://github.com/JosliBlue/espacios_cca_backend.git) |
-| **AutoPick** | Vehicle Rental Platform. | React, NestJS, TypeORM, PostgreSQL | [Front](https://github.com/IAlexLizano/car-rental-frontend.git) / [Back](https://github.com/TicheKiwar/car-rental-backend.git) |
+| **Enruta** | Web platform for managing routes and trips for bus companies. | Next.js, NestJS, Prisma, PostgreSQL | [![Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?logo=github)](https://github.com/pjimenez2510/en-ruta-app.git) <br> [![Backend](https://img.shields.io/badge/GitHub-Backend-181717?logo=github)](https://github.com/pjimenez2510/en-ruta-api.git) |
+| **Casa de la Cultura** | Web System for managing space reservations. | Next.js, Laravel, MySQL | [![Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?logo=github)](https://github.com/OscarJRM/Proyecto_Espacios_CC.git) <br> [![Backend](https://img.shields.io/badge/GitHub-Backend-181717?logo=github)](https://github.com/JosliBlue/espacios_cca_backend.git) |
+| **AutoPick** | Vehicle Rental Platform. | React, NestJS, TypeORM, PostgreSQL | [![Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?logo=github)](https://github.com/IAlexLizano/car-rental-frontend.git) <br> [![Backend](https://img.shields.io/badge/GitHub-Backend-181717?logo=github)](https://github.com/TicheKiwar/car-rental-backend.git) |
 | **Citas Médicas ECU** | Medical Appointments Platform. | React, NestJS, TypeORM, PostgreSQL | 🔒 Private |
 
 ## 💼 Experience
