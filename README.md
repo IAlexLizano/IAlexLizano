@@ -1,53 +1,63 @@
-<p align="center">
-  <img src="./imagenes/ALEX LIZANO BIENVENIDO A MI PERFIL.png" alt="Logo Perfil">
-</p>
+# Hi there, I'm Alex Lizano 👋
 
-# Hola, soy Alex Lizano 👋
-## Acerca de mí
-Mi nombre es Alex, soy estudiante de Software en la Universidad Técnica de Ambato y estoy cursando el sexto semestre. 
+## Software Engineering Student | Full Stack Developer
 
-Tengo conocimiento en el desarrollo de aplicaciones y paginas web. Actualmente, disfruto desarrollando proyectos, además de aprender nuevos conocimientos constantemente.
+Passionate about Full Stack development. Specialized in building robust and scalable solutions using technologies like .NET Core, NestJS, React, and Angular.
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/96/69/aa/9669aaa4d1e30a0e89063fde183b768e.gif" alt="Logo Perfil">
-</p>
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **Software Architecture**
+- 🎓 **Education**: Software Engineering at Universidad Técnica de Ambato (2021 - Present)
+- 📄 [Download my CV](https://github.com/IAlexLizano/portfolio/raw/main/public/cv_lizano_alex.pdf) (Note: Link assumes CV is in public folder of this repo, adjust if hosted elsewhere)
 
-## Tengo conocimiento en tecnologías como:
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 🛠️ Tech Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Estoy Aprendiendo:
-- Actualmente estoy cursando el secto semestre de la carrera de Software. 
-- Por el momento estoy adquiriendo conocimientos principalmente en:  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-## Contactame:
-- [Envíame un Email al correro alizano4338@uta.edu.ec](mailto:alizano4338@uta.edu.ec)
-- [Envíame un Email al correo alexsanty10lm@gmail.com](mailto:alexsanty10lm@gmail.com)
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## Algunas de mis Estadísticas son
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IAlexLizano)](https://github.com/IAlexLizano)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
-**IAlexLizano/IAlexLizano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Enruta** | Web platform for managing routes and trips for bus companies. | Next.js, NestJS, Prisma, PostgreSQL | [Front](https://github.com/pjimenez2510/en-ruta-app.git) / [Back](https://github.com/pjimenez2510/en-ruta-api.git) |
+| **Casa de la Cultura** | Web System for managing space reservations. | Next.js, Laravel, MySQL | [Front](https://github.com/OscarJRM/Proyecto_Espacios_CC.git) / [Back](https://github.com/JosliBlue/espacios_cca_backend.git) |
+| **AutoPick** | Vehicle Rental Platform. | React, NestJS, TypeORM, PostgreSQL | [Front](https://github.com/IAlexLizano/car-rental-frontend.git) / [Back](https://github.com/TicheKiwar/car-rental-backend.git) |
+| **Citas Médicas ECU** | Medical Appointments Platform. | React, NestJS, TypeORM, PostgreSQL | 🔒 Private |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+**Software Development Intern** @ Ambacar Cia. Ltda.
+_July 2025 - November 2025_
+- Migrated critical logistics system modules using a microservices pattern and Clean Architecture in .NET Core 7.
+- Implemented user interfaces using Angular.
+- Implemented administrative and parameterization modules.
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ialex-lizano)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IAlexLizano)
+
+---
+⭐️ From [Alex Lizano](https://github.com/IAlexLizano)
